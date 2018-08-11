@@ -1,3 +1,3 @@
 <?php get_header(); ?>
-<?= "single"; ?>
+<?= "category"; ?>
 <?php get_footer();
